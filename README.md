@@ -1,2 +1,2 @@
-# Snake-Game-OOP
-Build a OOP snake game in Python ( Pygame) 
+# Snake-Game
+Build a OOP snake game in Python (Pygame) 
